@@ -10,3 +10,23 @@ body {
 .App {
   text-align: center;
 }
+
+.Header button{
+  height: 30x;
+  width: 90px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.Header button i{
+  margin-left: 10px;
+}
+
+.Comment button{
+  margin-top: 10px;
+  height: 30x;
+  width: 150px;
+  font-size: 16px;
+  font-weight: bold;
+}
